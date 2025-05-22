@@ -1,0 +1,2 @@
+Build path: C:/Users/fuheshka/Asteroids/GameBuilds/Asteroids/ver 0.0.0.1
+Build number: 7
